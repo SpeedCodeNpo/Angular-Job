@@ -24,7 +24,7 @@ It's purpose is to be a starting point for every assignment.
     - The timestamp section of the convention is from the card creation spreadsheet.
 
 ## Step - 2 : Create the branch
-- (1) Checkout "branch-zero". FYI it is locked so cannot change its content.
+- (1) Checkout "zero-branch". FYI it is locked so cannot change its content.
 - (2) From this branch create your question branch example: git switch -c CARD-Q-20231106-1417
 - (3) Work on that branch and commit as many times as needed.
 - (4) When done create from it another branch for the solution: git switch -c CARD-S-20231106-1417
