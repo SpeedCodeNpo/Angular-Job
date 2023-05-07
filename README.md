@@ -8,7 +8,7 @@ This project is the base project for "Angular Job Skill".
 This skill set is dedicated for real world job competency.
 The assignments here are based on real assignments in real production workplaces.
 
-## This version : zero-project
+## This version : zero-branch
 
 This current version is an "ng new ..." project.
 It's purpose is to be a starting point for every assignment.
